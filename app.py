@@ -78,7 +78,7 @@ app.layout = fac.AntdSpin(
                                                         }
                                                     ),
                                                     fac.AntdText(
-                                                        'v0.0.1rc2',
+                                                        'dev',
                                                         style={
                                                             'fontSize': '10px',
                                                             'paddingLeft': '2px'
